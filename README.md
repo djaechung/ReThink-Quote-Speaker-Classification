@@ -15,5 +15,3 @@ Topic Classification Team:
 
 Technical Advisors:
 > Laura Nixon `laurajnixon` <br /> Lana Elauria `lana-e` <br /> Alex Bruefach
-
-Please read `github.md` if you need a refresher on creating and committing code to a different branch of the repo.
